@@ -27,6 +27,7 @@ body {
   font-weight: 700;
   color: hsl(0, 85%, 3%);                       /* this is for discription*/
   opacity: 0.8;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 .rating-box:nth-of-type(1) {
   width: 350px;
